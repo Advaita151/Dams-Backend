@@ -1,0 +1,28 @@
+{
+  "name": "dams-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advaita151/Dams-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advaita151/Dams-Backend/issues"
+  },
+  "homepage": "https://github.com/Advaita151/Dams-Backend#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}
